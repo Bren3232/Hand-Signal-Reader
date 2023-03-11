@@ -1,7 +1,4 @@
 # Hand-Signal-Reader
 
-![mp_hand_crp](https://user-images.githubusercontent.com/34115618/224448687-acf4b66f-b897-4f20-93d3-bd302e1f92cd.jpg)
-
-
-
+Detects when room lights come on then determines if the correct hand signal is made within a time frame. Uses Media Pipes Pose, and Hand detectors. Lighting threshold and hand signal are settable by the user. Uses Pose to zoom in around the persons face, greatly extending the Hand detectors range, was tested up to 9 meters.  
 
